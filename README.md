@@ -10,9 +10,9 @@
 <p align="center">Api websocket que retorna a hora em tempo real</p>
 
 
-## Instalação:
+## Instalação
 
-### » Clonando o repositório:
+### » Clonando o repositório
 
 1 - Na página principal do repositório.
 
@@ -41,18 +41,26 @@ $ git clone https://github.com/4lex-passos/NodeAPI-with-Websockets.git
 7 - Pressione Enter para criar seu clone local.
 
 
-## Execução:
-### » Instalando as dependências:
+## Execução
 
 Abra o projeto no VsCode.
+
+### » Instalando as dependências
+
+Abra o terminal e digite:
 
 ```sh
 npm install
 ```
 
-### » Iniciando o app:
+Para instalar todas as dependências.
 
-no terminal:
+### » Iniciando o app
+
+Depois digite:
+
 ```sh
 npm run dev
 ```
+
+Para iniciar o servidor.
