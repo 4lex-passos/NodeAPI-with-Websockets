@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-    NodeJS - Express - Websockets
+    NodeJS - Sockets.io - Express
 </p>
 
 
