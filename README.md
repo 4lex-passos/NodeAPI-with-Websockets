@@ -2,12 +2,15 @@
 <p align="center">
     <img src="https://github.com/4lex-passos/NodeAPI-with-Websockets/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
 </p>
-<p align="center">
-    NodeJS - Sockets.io - Express
-</p>
+
+<h4 align="center">
+    NodeJSㅤ᎓ㅤSocket.ioㅤ᎓ㅤExpressJS
+</h4>
+
+<p align="center">Api websocket que retorna a hora em tempo real</p>
 
 
-## 🎍 Instalação e execução:
+## Instalação:
 
 ### » Clonando o repositório:
 
@@ -37,6 +40,8 @@ $ git clone https://github.com/4lex-passos/NodeAPI-with-Websockets.git
 
 7 - Pressione Enter para criar seu clone local.
 
+
+## Execução:
 ### » Instalando as dependências:
 
 8 - Abra o projeto no VsCode.
