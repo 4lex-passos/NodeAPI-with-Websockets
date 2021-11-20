@@ -44,7 +44,7 @@ $ git clone https://github.com/4lex-passos/NodeAPI-with-Websockets.git
 ## Execução:
 ### » Instalando as dependências:
 
-8 - Abra o projeto no VsCode.
+Abra o projeto no VsCode.
 
 ```sh
 npm install
