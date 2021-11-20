@@ -2,11 +2,6 @@
 <p align="center">
     <img src="https://github.com/4lex-passos/NodeAPI-with-Websockets/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
 </p>
-
-<h1 align="center">
-   NodeAPI with Websockets
-</h1>
-
 <p align="center">
     NodeJS - Sockets.io - Express
 </p>
