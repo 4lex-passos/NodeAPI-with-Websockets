@@ -3,9 +3,9 @@
     <img src="https://github.com/4lex-passos/NodeAPI-with-Websockets/blob/master/public/README-HEADER-TEMPLATE.png" />
 </p>
 
-<h1 align="center">
+<h2 align="center">
    NodeAPI with Websockets
-</h1>
+</h2>
 
 <p align="center">
     NodeJS - Sockets.io - Express
