@@ -10,7 +10,7 @@
 <p align="center">Api websocket que retorna a hora em tempo real</p>
 
 
-## Instalação
+## 📦 Instalação
 
 ### » Clonando o repositório
 
@@ -41,7 +41,7 @@ $ git clone https://github.com/4lex-passos/NodeAPI-with-Websockets.git
 7 - Pressione Enter para criar seu clone local.
 
 
-## Execução
+## 🚀 Execução
 
 Abra o projeto no VsCode.
 
