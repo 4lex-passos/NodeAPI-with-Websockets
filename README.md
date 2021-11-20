@@ -1,11 +1,11 @@
 
 <p align="center">
-    <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/logotype.png" />
+    <img src="https://github.com/4lex-passos/NodeAPI-with-Websockets/blob/master/public/README-HEADER-TEMPLATE.png" />
 </p>
 
-<h2 align="center">
+<h1 align="center">
    NodeAPI with Websockets
-</h2>
+</h1>
 
 <p align="center">
     NodeJS - Sockets.io - Express
@@ -42,9 +42,9 @@ $ git clone https://github.com/4lex-passos/NodeAPI-with-Websockets.git
 
 7 - Pressione Enter para criar seu clone local.
 
-8 - Abra o projeto no VsCode.
-
 ### » Instalando as dependências:
+
+8 - Abra o projeto no VsCode.
 
 ```sh
 npm install
