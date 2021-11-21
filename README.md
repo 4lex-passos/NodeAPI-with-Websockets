@@ -20,41 +20,41 @@
 
 ### Clonando o repositório
 
-❶ - Na página principal do repositório.
+❶ Navegue para a página principal do repositório.
 
-❷ - Acima da lista de arquivos, clique em código.
+❷ Acima da lista de arquivos, clique em código.
 
 <p>
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-❸ - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
+❸ Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
 
 <p>
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
 </p>
 
-❹ - Abra Git Bash.
+❹ Abra Git Bash.
 
-❺ - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+❺ Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 
-❻ - Digite git clone (clonar git) e cole a URL deste repositório:
+❻ Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
 $ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 ```
 
-❼ - Pressione Enter para criar seu clone local.
+❼ Pressione Enter para criar seu clone local.
 
 </br>
 
 ## 🚀 Execução
 
-Abra o projeto no VsCode.
+❶ Abra o projeto no VsCode.
 
 ### » Instalando as dependências
 
-Abra o terminal e digite:
+❷ Abra o terminal e digite:
 
 ```sh
 npm install
@@ -64,10 +64,12 @@ Para instalar todas as dependências.
 
 ### Iniciando o app
 
-Depois digite:
+❸ Depois digite:
 
 ```sh
 npm run dev
 ```
 
 Para iniciar o servidor.
+
+🎇 E PRONTO, PARABÉNS 🎆
