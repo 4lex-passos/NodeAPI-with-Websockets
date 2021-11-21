@@ -13,39 +13,36 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=09c89f&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=Ghost"/>
 </p>
-<p align="center">
-
 
 ## 📦 Instalação
 
 ### » Clonando o repositório
 
-1 - Na página principal do repositório.
+❶ - Na página principal do repositório.
 
-2 - Acima da lista de arquivos, clique em código.
+➋ - Acima da lista de arquivos, clique em código.
 
 <p align="center">
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-3 - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
+➌ - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
 
 <p align="center">
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
 </p>
 
-4 - Abra Git Bash.
+➍ - Abra Git Bash.
 
-5 - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+➎ - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 
-6 - Digite git clone (clonar git) e cole a URL deste repositório:
+➏ - Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
 $ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 ```
 
-7 - Pressione Enter para criar seu clone local.
-</p>
+➐ - Pressione Enter para criar seu clone local.
 
 ## 🚀 Execução
 
