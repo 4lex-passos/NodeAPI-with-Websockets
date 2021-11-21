@@ -39,7 +39,7 @@
 6 - Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
-$ git clone https://github.com/4lex-passos/NodeAPI-with-Websockets.git
+$ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 ```
 
 7 - Pressione Enter para criar seu clone local.
