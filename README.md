@@ -20,29 +20,29 @@
 
 ❶ - Na página principal do repositório.
 
-➋ - Acima da lista de arquivos, clique em código.
+❷ - Acima da lista de arquivos, clique em código.
 
 <p align="center">
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/code-button.png" />
 </p>
 
-➌ - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
+❸ - Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique no ícone de prancheta.
 
 <p align="center">
     <img width ="50%" src="https://docs.github.com/assets/images/help/repository/https-url-clone.png" />
 </p>
 
-➍ - Abra Git Bash.
+❹ - Abra Git Bash.
 
-➎ - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+❺ - Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 
-➏ - Digite git clone (clonar git) e cole a URL deste repositório:
+❻ - Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
 $ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 ```
 
-➐ - Pressione Enter para criar seu clone local.
+❼ - Pressione Enter para criar seu clone local.
 
 ## 🚀 Execução
 
