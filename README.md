@@ -18,7 +18,7 @@
 
 ### » Clonando o repositório
 
-1 - Na página principal do repositório.
+ ① - Na página principal do repositório.
 
 2 - Acima da lista de arquivos, clique em código.
 
