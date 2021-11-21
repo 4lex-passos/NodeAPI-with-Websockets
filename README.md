@@ -72,4 +72,4 @@ npm run dev
 
 Para iniciar o servidor.
 
-🎇 E PRONTO, PARABÉNS 🎆
+🎉 E PRONTO, PARABÉNS 🎊
