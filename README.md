@@ -18,7 +18,7 @@
 
 ## 📦 Instalação
 
-### Clonando o repositório
+### ● Clonando o repositório
 
 ❶ Navegue para a página principal do repositório.
 
@@ -52,7 +52,7 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 
 ❶ Abra o projeto no VsCode.
 
-### » Instalando as dependências
+### ● Instalando as dependências
 
 ❷ Abra o terminal e digite:
 
@@ -62,7 +62,7 @@ npm install
 
 Para instalar todas as dependências.
 
-### Iniciando o app
+### ● Iniciando o app
 
 ❸ Depois digite:
 
