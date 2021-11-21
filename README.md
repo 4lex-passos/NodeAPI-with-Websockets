@@ -13,12 +13,14 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=09c89f&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=Ghost"/>
 </p>
+<p align="center">
+
 
 ## 📦 Instalação
 
 ### » Clonando o repositório
 
- ① - Na página principal do repositório.
+1 - Na página principal do repositório.
 
 2 - Acima da lista de arquivos, clique em código.
 
@@ -43,7 +45,7 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 ```
 
 7 - Pressione Enter para criar seu clone local.
-
+</p>
 
 ## 🚀 Execução
 
