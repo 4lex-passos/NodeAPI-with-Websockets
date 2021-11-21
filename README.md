@@ -16,7 +16,7 @@
 
 ## 📦 Instalação
 
-### » Clonando o repositório
+### Clonando o repositório
 
 ❶ - Na página principal do repositório.
 
@@ -58,7 +58,7 @@ npm install
 
 Para instalar todas as dependências.
 
-### » Iniciando o app
+### Iniciando o app
 
 Depois digite:
 
