@@ -24,7 +24,8 @@
 </br>
 
 ❶ Navegue para a página principal do repositório.
-</br>
+
+
 ❷ Acima da lista de arquivos, clique em código.
 
 <p>
@@ -38,9 +39,11 @@
 </p>
 
 ❹ Abra Git Bash.
-</br>
+
+
 ❺ Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
-</br>
+
+
 ❻ Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
