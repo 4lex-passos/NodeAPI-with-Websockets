@@ -44,6 +44,8 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_BACK-END.git
 
 ❼ - Pressione Enter para criar seu clone local.
 
+</br>
+
 ## 🚀 Execução
 
 Abra o projeto no VsCode.
